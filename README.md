@@ -9,10 +9,15 @@
 # About Me
 
 ## My Interests
+
 * I enjoy making music and playing music on the Piano, Alto Saxophone, Tenor Saxophone and Clarinet.
+
 * I like... I _have learned to tolerate_ Blender's **lovely** interface to create 3D models for various animations, games and other projects.
+
 * I like playing and critiquing video games, particularly by looking at various ideas that fall short and noting how they can be innovated or improved on.
-* I've been toying around with code since I was around 10 years old using various websites like Scratch and Roblox and I'm currently working on a large scale Roblox project right now which I unfortunately can't share any details about. (...Yes, I know. I'd use Unreal, but Roblox STILL offers both free servers **and** free publishing in _this_ economy? That 70/30 profit split is an absolute _steal._)
+
+* I've been toying around with code since I was around 10 years old using various websites like Scratch and Roblox. I'm currently working on a large scale Roblox project right now which I unfortunately can't share any details about. (...Yes, I know. I'd use Unreal, but Roblox STILL offers both free servers **and** free publishing in _this_ economy? That 70/30 profit split is an absolute _steal._)
+
 * Overall I've always been facinated by computers and digital art and so I want to learn more languages that I can use to create my own programs, apps and games. 
 
 ## Websites I recommend
